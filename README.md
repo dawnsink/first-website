@@ -22,5 +22,9 @@ The HTML and CSS were fun to write. I had some issues properly configuring VS Co
 Once I got that sorted, I had a problem with pushing a commit to Github. I had a file added that was too large, I didn't realize until it got stuck in my repository. Even though I deleted the file, it was stuck in my git. 
 I was able to get some help deleting that git. Then I reinstalled all and had no issues with commiting and pushing. Problem solving actually helped me become more comfortable with writing in terminal. 
 
+*update*
+I am still having issues with pushing commits thru terminal. I got an error message that says it failed to push some refs to my repository. Will need some additional troubleshooting. 
 ------------------------------
 https://dawnsink-first-website.glitch.me/
+
+
