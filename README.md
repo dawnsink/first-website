@@ -1,12 +1,12 @@
 # first-website
 
-* S T R A N G E * I N D E X * 
+  S T R A N G E * I N D E X  
 ------------------------------
          January 2020                                             
 ------------------------------
 
 This site is a snapshot of time, made with simple HTML and CSS. 
-It is text driven, bookended by poems from Adrienne Rich and Robert Frost. 
+It is text driven, bookended by poems from Adrienne Rich. 
 
 I'd consider it an exercise in the vein of relational aestheics. 
 Translation: through using elementary tools of web design, I'm creating an online experience that feels much slower than most modern websites. It feels reflective of the strange moment we are in. I wanted it to feel intimate and deliberate.  
